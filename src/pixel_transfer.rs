@@ -1,6 +1,6 @@
 use crate::core_foundation_sys::string::CFStringRef;
 use crate::core_foundation_sys::base::{ OSStatus, CFTypeID, CFTypeRef, CFAllocatorRef };
-use crate::corevideo_sys::CVPixelBufferRef;
+use crate::core_video_sys::CVPixelBufferRef;
 
 
 pub type VTPixelTransferSessionRef = CFTypeRef;

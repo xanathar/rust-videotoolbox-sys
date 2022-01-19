@@ -2,7 +2,7 @@ use crate::libc::{c_void};
 use crate::core_foundation_sys::base::{ OSStatus, CFTypeID, CFTypeRef, CFAllocatorRef, Boolean };
 use crate::core_foundation_sys::string::CFStringRef;
 use crate::core_foundation_sys::dictionary::CFDictionaryRef;
-use crate::corevideo_sys::{ CVImageBufferRef, CVPixelBufferRef, };
+use crate::core_video_sys::{ CVImageBufferRef, CVPixelBufferRef, };
 use crate::coremedia_sys::{ CMTime, CMVideoFormatDescriptionRef, CMSampleBufferRef, CMFormatDescriptionRef };
 
 

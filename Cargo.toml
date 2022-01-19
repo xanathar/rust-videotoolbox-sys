@@ -14,7 +14,7 @@ documentation = "https://docs.rs/videotoolbox-sys/*/x86_64-apple-darwin/videotoo
 libc = "0.2"
 core-foundation-sys = "0.6.2"
 coremedia-sys = "0.0.2"
-corevideo-sys = "0.0.1"
+core-video-sys = "0.1.4"
 
 [dev-dependencies]
 core-foundation = "0.6"

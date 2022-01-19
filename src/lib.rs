@@ -4,7 +4,7 @@
 extern crate libc;
 extern crate core_foundation_sys;
 extern crate coremedia_sys;
-extern crate corevideo_sys;
+extern crate core_video_sys;
 
 // Document: https://developer.apple.com/documentation/videotoolbox?language=objc
 
